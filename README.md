@@ -13,7 +13,7 @@ By fixing the files the device produces, I can keep using it forever!
 # How to use it
 
 ```
-usage: gpsfix.py [-h] [--folder FOLDER] [--file FILE]
+usage: fix_rollover.py [-h] [--folder FOLDER] [--file FILE]
 
 options:
   -h, --help       show this help message and exit
